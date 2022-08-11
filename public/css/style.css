@@ -122,12 +122,14 @@ h1,h2,h3,h4,h5,h6 {
   background-color: white;
   border-radius: var(--size-200);
   overflow: hidden;
+  margin: var(--size-300);
 }
 .content {
   padding: var(--size-400);
 }
 .content h1 {
     margin-bottom: var(--size-100);
+    font-size: var(--size-400);
 }
 
 .content p {
