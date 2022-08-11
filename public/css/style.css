@@ -174,7 +174,8 @@ h1,h2,h3,h4,h5,h6 {
     padding-top: var(--size-200);
 }
 
-.brand h4 {
+.brand h2 {
+    font-size: 1em;
     font-weight: 900;
 }
 footer{
